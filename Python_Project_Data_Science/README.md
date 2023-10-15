@@ -16,8 +16,9 @@ A well-designed dashboard provides a concise view of key performance indicators 
 
 ## Tools Used
 
-- **Skills Network Labs**: This is a sandbox environment designed for hands-on learning and lab completion in courses.
-- **Watson Studio**: A component of IBM Cloud Pak for Data, Watson Studio provides a suite of tools in a collaborative environment. It's designed for data scientists, data analysts, AI and machine learning engineers, and domain experts to develop and deploy projects.
+- **Webscraping**: Extracting financial data directly from web sources.
+- **yfinance Library**: A popular Python library to fetch financial data.
+- **matplotlib**: Used for plotting and visualizing the extracted data.
 
 ## Review Criteria
 
